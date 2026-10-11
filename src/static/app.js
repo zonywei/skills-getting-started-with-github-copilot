@@ -85,3 +85,4 @@ document.addEventListener("DOMContentLoaded", () => {
   fetchActivities();
 });
 // Copilot exercise: UI enhancement
+// Step 3: participants section enhancement
