@@ -84,3 +84,5 @@ document.addEventListener("DOMContentLoaded", () => {
   // Initialize app
   fetchActivities();
 });
+// Copilot exercise: UI enhancement
+// Step 3: participants section enhancement
